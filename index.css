@@ -1,0 +1,20 @@
+.home {
+    background-image: url("https://wallpaperaccess.com/full/1996531.jpg");
+    height: 600px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.home h1 {
+    color: aliceblue;
+}
+.home p {
+   color:goldenrod; 
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 50px;
+   margin-bottom: 50px;
+   margin-left: 50px;
+   margin-right: 50px;
+   padding:2px ;
+}
