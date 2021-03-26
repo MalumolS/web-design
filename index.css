@@ -29,3 +29,33 @@
 .gallery{
     text-align: center;
     text-decoration: underline;
+}
+.start-ups {
+    text-align:center ;
+    text-decoration: underline;
+}
+.contact-us{
+    text-align: center;
+    text-decoration: underline;
+}
+.about{
+    text-align: center;
+    text-decoration: underline;
+}
+.team{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card-img-top {
+    height: 250px;
+    width: auto;
+    padding: 30px;
+}
+
+
+.abtimg img{
+    height: 250px;
+    width: auto;
+}
+
